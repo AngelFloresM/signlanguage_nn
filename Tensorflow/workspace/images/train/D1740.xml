@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>D1740.jpg</filename>
+	<path>C:\Users\angel\OneDrive\Documentos\CUCEI\SSPAI2\Proyecto\New\RealTimeObjectDetection\Tensorflow\workspace\images\train\D1740.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>41</ymin>
+			<xmax>166</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

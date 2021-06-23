@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>H1860.jpg</filename>
+	<path>C:\Users\angel\OneDrive\Documentos\CUCEI\SSPAI2\Proyecto\New\RealTimeObjectDetection\Tensorflow\workspace\images\train\H1860.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>H</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>13</ymin>
+			<xmax>158</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>

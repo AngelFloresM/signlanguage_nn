@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Y1200.jpg</filename>
+	<path>C:\Users\angel\OneDrive\Documentos\CUCEI\SSPAI2\Proyecto\New\RealTimeObjectDetection\Tensorflow\workspace\images\train\Y1200.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Y</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>114</ymin>
+			<xmax>124</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>

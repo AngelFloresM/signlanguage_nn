@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>K1380.jpg</filename>
+	<path>C:\Users\angel\OneDrive\Documentos\CUCEI\SSPAI2\Proyecto\New\RealTimeObjectDetection\Tensorflow\workspace\images\train\K1380.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>K</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>25</ymin>
+			<xmax>90</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

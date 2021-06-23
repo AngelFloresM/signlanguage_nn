@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>A1020.jpg</filename>
+	<path>C:\Users\angel\OneDrive\Documentos\CUCEI\SSPAI2\Proyecto\New\RealTimeObjectDetection\Tensorflow\workspace\images\train\A1020.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>86</ymin>
+			<xmax>187</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,64 @@
+item { 
+	name:'A'
+	id:1
+}
+item { 
+	name:'B'
+	id:2
+}
+item { 
+	name:'D'
+	id:3
+}
+item { 
+	name:'F'
+	id:4
+}
+item { 
+	name:'H'
+	id:5
+}
+item { 
+	name:'I'
+	id:6
+}
+item { 
+	name:'K'
+	id:7
+}
+item { 
+	name:'L'
+	id:8
+}
+item { 
+	name:'N'
+	id:9
+}
+item { 
+	name:'O'
+	id:10
+}
+item { 
+	name:'P'
+	id:11
+}
+item { 
+	name:'R'
+	id:12
+}
+item { 
+	name:'U'
+	id:13
+}
+item { 
+	name:'V'
+	id:14
+}
+item { 
+	name:'W'
+	id:15
+}
+item { 
+	name:'Y'
+	id:16
+}
